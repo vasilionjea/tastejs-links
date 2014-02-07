@@ -1,4 +1,3 @@
 tastejs-links
 =============
-
-Repo for extracting links from https://github.com/tastejs/TasteMusic/issues/1/
+**This repo has been deprecated** - New repo at: https://github.com/vasilionjea/TasteMusic/tree/master/shared-links
